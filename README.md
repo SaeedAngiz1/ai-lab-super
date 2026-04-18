@@ -1159,12 +1159,12 @@ If you find this project useful, please consider:
 **📝 Citing in your research**
 
 ```bibtex
-@software{ai_lab_super_2024,
+@software{ai_lab_super_2026,
   author = {Mohammad Saeed Angiz},
   title = {AI Lab Super: Enterprise-Grade AI/ML/DL Development Platform},
   year = {2026},
   publisher = {GitHub},
-  url = {https://github.com/mohammad-saeed-angiz/ai-lab-super}
+  url = {https://github.com/saeedangiz1/ai-lab-super}
 }
 ```
 
