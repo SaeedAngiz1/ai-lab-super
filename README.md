@@ -315,7 +315,7 @@ ai-lab-super run
 
 ```bash
 # Clone the repository
-git clone https://github.com/mohammad-saeed-angiz/ai-lab-super.git
+git clone https://github.com/saeedangiz1/ai-lab-super.git
 cd ai-lab-super
 
 # Create virtual environment
@@ -1107,7 +1107,7 @@ SOFTWARE.
 <img src="https://img.shields.io/badge/GitHub-mohammad--saeed--angiz-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 <a href="https://linkedin.com/in/mohammad-saeed-angiz">
-<img src="https://img.shields.io/badge/LinkedIn-[mohammad--saeed--angiz]-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-saeed-angiz-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
 <a href="mailto:contact@ai-lab-super.com">
 <img src="https://img.shields.io/badge/Email-contact@saeedangiz2@gmail.com-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
@@ -1122,7 +1122,7 @@ SOFTWARE.
 ## 🙏 Acknowledgments
 
 <p align="center">
-<img src="https://github.com/mohammad-saeed-angiz/ai-lab-super/raw/main/assets/images/acknowledgments.png" width="600" alt="Acknowledgments"/>
+<img src="https://github.com/saeedangiz1/ai-lab-super/raw/main/assets/images/acknowledgments.png" width="600" alt="Acknowledgments"/>
 </p>
 
 This project wouldn't be possible without these amazing open-source projects:
