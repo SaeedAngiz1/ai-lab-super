@@ -1107,7 +1107,7 @@ SOFTWARE.
 <img src="https://img.shields.io/badge/GitHub-saeedangiz1-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 <a href="[[https://linkedin.com/in/saeed-angiz-8b424038a]](https://www.linkedin.com/in/saeed-angiz-8b424038a)">
-<img src="https://img.shields.io/badge/LinkedIn-[saeed-angiz]-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-[saeed-angiz-8b424038a]-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
 <a href="mailto:saeedangiz2@gmail.com">
 <img src="https://img.shields.io/badge/Email-saeedangiz2@gmail.com-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
