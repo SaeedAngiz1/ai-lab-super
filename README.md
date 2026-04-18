@@ -1106,7 +1106,7 @@ SOFTWARE.
 <a href="https://github.com/saeedangiz1">
 <img src="https://img.shields.io/badge/GitHub-mohammad--saeed--angiz-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
-<a href="https://linkedin.com/in/[saeed-angiz](https://www.linkedin.com/in/saeed-angiz-8b424038a)">
+<a href="https://linkedin.com/in/saeed-angiz-8b424038a)">
 <img src="https://img.shields.io/badge/LinkedIn-[saeed-angiz]-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
 <a href="mailto:contact@ai-lab-super.com">
