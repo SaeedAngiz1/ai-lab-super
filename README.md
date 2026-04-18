@@ -783,7 +783,7 @@ studio.export(model, format='onnx')
 ## 📈 Evaluation
 
 <p align="center">
-<img src="https://github.com/mohammad-saeed-angiz/ai-lab-super/raw/main/assets/screenshots/evaluation_dashboard.png" width="800" alt="Evaluation Dashboard"/>
+<img src="https://github.com/saeedangiz1/ai-lab-super/raw/main/assets/screenshots/evaluation_dashboard.png" width="800" alt="Evaluation Dashboard"/>
 </p>
 
 ### Available Metrics
@@ -840,7 +840,7 @@ studio.export(model, format='onnx')
 ## 🔮 Prediction Hub
 
 <p align="center">
-<img src="https://github.com/mohammad-saeed-angiz/ai-lab-super/raw/main/assets/screenshots/prediction_interface.png" width="800" alt="Prediction Interface"/>
+<img src="https://github.com/saeedangiz1/ai-lab-super/raw/main/assets/screenshots/prediction_interface.png" width="800" alt="Prediction Interface"/>
 </p>
 
 ### Features
@@ -882,7 +882,7 @@ predictions = response.json()
 ## 📁 Project Management
 
 <p align="center">
-<img src="https://github.com/mohammad-saeed-angiz/ai-lab-super/raw/main/assets/screenshots/project_management.png" width="800" alt="Project Management"/>
+<img src="https://github.com/saeedangiz1/ai-lab-super/raw/main/assets/screenshots/project_management.png" width="800" alt="Project Management"/>
 </p>
 
 ### Features
@@ -901,7 +901,7 @@ predictions = response.json()
 ### Integrations
 
 <p align="center">
-<img src="https://github.com/mohammad-saeed-angiz/ai-lab-super/raw/main/assets/images/integrations.png" width="800" alt="Integrations"/>
+<img src="https://github.com/saeedangiz1/ai-lab-super/raw/main/assets/images/integrations.png" width="800" alt="Integrations"/>
 </p>
 
 | Integration | Purpose | Status |
@@ -936,7 +936,7 @@ Config.cache_predictions = True
 ## 📥 Downloads & Exports
 
 <p align="center">
-<img src="https://github.com/mohammad-saeed-angiz/ai-lab-super/raw/main/assets/gifs/download_animation.gif" width="600" alt="Download Animation"/>
+<img src="https://github.com/saeedangiz1/ai-lab-super/raw/main/assets/gifs/download_animation.gif" width="600" alt="Download Animation"/>
 </p>
 
 ### Available at Every Stage
@@ -1107,7 +1107,7 @@ SOFTWARE.
 <img src="https://img.shields.io/badge/GitHub-mohammad--saeed--angiz-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 <a href="https://linkedin.com/in/mohammad-saeed-angiz">
-<img src="https://img.shields.io/badge/LinkedIn-mohammad--saeed--angiz-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-[mohammad--saeed--angiz](https://www.linkedin.com/in/saeed-angiz-8b424038a?utm_source=share_via&utm_content=profile&utm_medium=member_ios)-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
 <a href="mailto:contact@ai-lab-super.com">
 <img src="https://img.shields.io/badge/Email-contact@saeedangiz2@gmail.com-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
