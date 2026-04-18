@@ -70,7 +70,7 @@
 ### 📊 Data Hub
 
 <p align="center">
-<img src="https://github.com/mohammad-saeed-angiz/ai-lab-super/raw/main/assets/screenshots/data_hub.png" width="800" alt="Data Hub Screenshot"/>
+<img src="https://github.com/saeedangiz1/ai-lab-super/raw/main/assets/screenshots/data_hub.png" width="800" alt="Data Hub Screenshot"/>
 </p>
 
 - 📤 **Multi-format Upload**: CSV, Excel, JSON, Parquet, TSV
@@ -86,8 +86,8 @@
 
 <br>
 <p align="center">
-<img src="https://github.com/mohammad-saeed-angiz/ai-lab-super/raw/main/assets/screenshots/data_preview.png" width="400"/>
-<img src="https://github.com/mohammad-saeed-angiz/ai-lab-super/raw/main/assets/screenshots/data_visualization.png" width="400"/>
+<img src="https://github.com/saeedangiz1/ai-lab-super/raw/main/assets/screenshots/data_preview.png" width="400"/>
+<img src="https://github.com/saeedangiz1/ai-lab-super/raw/main/assets/screenshots/data_visualization.png" width="400"/>
 </p>
 </details>
 
@@ -96,7 +96,7 @@
 ### 🤖 ML Lab
 
 <p align="center">
-<img src="https://github.com/mohammad-saeed-angiz/ai-lab-super/raw/main/assets/screenshots/ml_lab.png" width="800" alt="ML Lab Screenshot"/>
+<img src="https://github.com/saeedangiz1/ai-lab-super/raw/main/assets/screenshots/ml_lab.png" width="800" alt="ML Lab Screenshot"/>
 </p>
 
 <p align="center">
@@ -167,7 +167,7 @@
 ### 🧠 DL Studio
 
 <p align="center">
-<img src="https://github.com/mohammad-saeed-angiz/ai-lab-super/raw/main/assets/screenshots/dl_studio.png" width="800" alt="DL Studio Screenshot"/>
+<img src="https://github.com/saeedangiz1/ai-lab-super/raw/main/assets/screenshots/dl_studio.png" width="800" alt="DL Studio Screenshot"/>
 </p>
 
 <p align="center">
@@ -187,7 +187,7 @@
 
 <br>
 <p align="center">
-<img src="https://github.com/mohammad-saeed-angiz/ai-lab-super/raw/main/assets/gifs/training_progress.gif" width="600" alt="Training Progress GIF"/>
+<img src="https://github.com/saeedangiz1/ai-lab-super/raw/main/assets/gifs/training_progress.gif" width="600" alt="Training Progress GIF"/>
 </p>
 </details>
 
@@ -196,7 +196,7 @@
 ### 📈 Evaluation & Explainability
 
 <p align="center">
-<img src="https://github.com/mohammad-saeed-angiz/ai-lab-super/raw/main/assets/screenshots/evaluation.png" width="800" alt="Evaluation Screenshot"/>
+<img src="https://github.com/saeedangiz1/ai-lab-super/raw/main/assets/screenshots/evaluation.png" width="800" alt="Evaluation Screenshot"/>
 </p>
 
 - 📊 **30+ Metrics**: Accuracy, Precision, Recall, F1, ROC-AUC, RMSE, MAE, R²
@@ -210,8 +210,8 @@
 
 <br>
 <p align="center">
-<img src="https://github.com/mohammad-saeed-angiz/ai-lab-super/raw/main/assets/screenshots/shap_summary.png" width="400"/>
-<img src="https://github.com/mohammad-saeed-angiz/ai-lab-super/raw/main/assets/screenshots/shap_waterfall.png" width="400"/>
+<img src="https://github.com/saeedangiz1/ai-lab-super/raw/main/assets/screenshots/shap_summary.png" width="400"/>
+<img src="https://github.com/saeedangiz1/ai-lab-super/raw/main/assets/screenshots/shap_waterfall.png" width="400"/>
 </p>
 </details>
 
@@ -220,7 +220,7 @@
 ### 🤖 AI Assistant Control
 
 <p align="center">
-<img src="https://github.com/mohammad-saeed-angiz/ai-lab-super/raw/main/assets/screenshots/ai_assistant.png" width="800" alt="AI Assistant Screenshot"/>
+<img src="https://github.com/saeedangiz1/ai-lab-super/raw/main/assets/screenshots/ai_assistant.png" width="800" alt="AI Assistant Screenshot"/>
 </p>
 
 <p align="center">
@@ -261,7 +261,7 @@
 ### 🔮 Prediction Hub
 
 <p align="center">
-<img src="https://github.com/mohammad-saeed-angiz/ai-lab-super/raw/main/assets/screenshots/prediction.png" width="800" alt="Prediction Hub Screenshot"/>
+<img src="https://github.com/saeedangiz1/ai-lab-super/raw/main/assets/screenshots/prediction.png" width="800" alt="Prediction Hub Screenshot"/>
 </p>
 
 - 🎯 **Single Prediction**: Interactive input forms with validation
@@ -275,7 +275,7 @@
 ### 📥 Downloads & Exports
 
 <p align="center">
-<img src="https://github.com/mohammad-saeed-angiz/ai-lab-super/raw/main/assets/screenshots/downloads.png" width="800" alt="Download Center Screenshot"/>
+<img src="https://github.com/saeedangiz1/ai-lab-super/raw/main/assets/screenshots/downloads.png" width="800" alt="Download Center Screenshot"/>
 </p>
 
 **Download at Every Stage:**
@@ -552,7 +552,7 @@ cv.plot_roc_curves()
 ## 🤖 AI Assistant
 
 <p align="center">
-<img src="https://github.com/mohammad-saeed-angiz/ai-lab-super/raw/main/assets/gifs/ai_workflow.gif" width="800" alt="AI Workflow Animation"/>
+<img src="https://github.com/saeedangiz1/ai-lab-super/raw/main/assets/gifs/ai_workflow.gif" width="800" alt="AI Workflow Animation"/>
 </p>
 
 The AI Assistant understands natural language commands and executes complex ML workflows automatically.
@@ -651,7 +651,7 @@ hub.download(data_features, format='csv')
 ## 🤖 ML Lab
 
 <p align="center">
-<img src="https://github.com/mohammad-saeed-angiz/ai-lab-super/raw/main/assets/gifs/ml_training.gif" width="800" alt="ML Training Animation"/>
+<img src="https://github.com/saeedangiz1/ai-lab-super/raw/main/assets/gifs/ml_training.gif" width="800" alt="ML Training Animation"/>
 </p>
 
 ### Supported Models
@@ -723,7 +723,7 @@ for strategy in cv_strategies:
 ## 🧠 DL Studio
 
 <p align="center">
-<img src="https://github.com/mohammad-saeed-angiz/ai-lab-super/raw/main/assets/gifs/neural_network.gif" width="800" alt="Neural Network Animation"/>
+<img src="https://github.com/saeedangiz1/ai-lab-super/raw/main/assets/gifs/neural_network.gif" width="800" alt="Neural Network Animation"/>
 </p>
 
 ### Supported Architectures
@@ -1041,7 +1041,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 ```bash
 # Clone repository
-git clone https://github.com/mohammad-saeed-angiz/ai-lab-super.git
+git clone https://github.com/saeedangiz1/ai-lab-super.git
 
 # Install development dependencies
 pip install -r requirements-dev.txt
@@ -1103,17 +1103,17 @@ SOFTWARE.
 **Creator & Lead Developer**
 
 <p align="center">
-<a href="https://github.com/mohammad-saeed-angiz">
+<a href="https://github.com/saeedangiz1">
 <img src="https://img.shields.io/badge/GitHub-mohammad--saeed--angiz-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 <a href="https://linkedin.com/in/mohammad-saeed-angiz">
 <img src="https://img.shields.io/badge/LinkedIn-mohammad--saeed--angiz-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
 <a href="mailto:contact@ai-lab-super.com">
-<img src="https://img.shields.io/badge/Email-contact@ai--lab--super.com-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-contact@saeedangiz2@gmail.com-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
 </a>
-<a href="https://ai-lab-super.com">
-<img src="https://img.shields.io/badge/Website-ai--lab--super.com-4285F4?style=for-the-badge&logo=google-chrome" alt="Website"/>
+<a href="https://saeedangiz.link">
+<img src="https://img.shields.io/badge/Website-saeedangiz.link-4285F4?style=for-the-badge&logo=google-chrome" alt="Website"/>
 </a>
 </p>
 
