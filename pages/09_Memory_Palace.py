@@ -11,6 +11,74 @@ import plotly.express as px
 import time
 from datetime import datetime
 
+def create_knowledge_graph_visualization(nodes, edges):
+    """Create a network graph visualization of knowledge graph."""
+    fig = go.Figure()
+    
+    # Create node positions using a simple circular layout
+    import numpy as np
+    n_nodes = len(nodes)
+    angles = np.linspace(0, 2 * np.pi, n_nodes, endpoint=False)
+    x_pos = np.cos(angles)
+    y_pos = np.sin(angles)
+    
+    node_positions = {node: (x, y) for node, x, y in zip(nodes, x_pos, y_pos)}
+    
+    # Add edges
+    for source, relation, target in edges:
+        if source in node_positions and target in node_positions:
+            x0, y0 = node_positions[source]
+            x1, y1 = node_positions[target]
+            
+            fig.add_trace(go.Scatter(
+                x=[x0, x1, None],
+                y=[y0, y1, None],
+                mode='lines',
+                line=dict(width=2, color='#888'),
+                hoverinfo='none',
+                showlegend=False
+            ))
+            
+            # Add edge label (relation)
+            mid_x = (x0 + x1) / 2
+            mid_y = (y0 + y1) / 2
+            fig.add_trace(go.Scatter(
+                x=[mid_x],
+                y=[mid_y],
+                mode='text',
+                text=[relation],
+                textposition='top center',
+                textfont=dict(size=10, color='#666'),
+                showlegend=False
+            ))
+    
+    # Add nodes
+    node_x = [node_positions[node][0] for node in nodes]
+    node_y = [node_positions[node][1] for node in nodes]
+    
+    fig.add_trace(go.Scatter(
+        x=node_x,
+        y=node_y,
+        mode='markers+text',
+        marker=dict(size=40, color='#00aaff', line=dict(width=2, color='white')),
+        text=nodes,
+        textposition='bottom center',
+        textfont=dict(size=12),
+        hoverinfo='text',
+        name='Nodes'
+    ))
+    
+    fig.update_layout(
+        title='Knowledge Graph',
+        showlegend=False,
+        hovermode='closest',
+        xaxis=dict(showgrid=False, zeroline=False, showticklabels=False),
+        yaxis=dict(showgrid=False, zeroline=False, showticklabels=False),
+        plot_bgcolor='rgba(0,0,0,0)'
+    )
+    
+    return fig
+
 st.markdown("# 🏛️ Memory Palace - AI Memory System")
 st.markdown("**Created by: Mohammad Saeed Angiz** | Based on MemPalace")
 st.markdown("---")
@@ -476,7 +544,7 @@ def create_knowledge_graph_visualization(nodes, edges):
 # Footer
 st.markdown("---")
 st.markdown("""
-<div style='text-align: center; padding: 1rem; background: #f8f9fa; border-radius: 8px;'>
+<div style='text-align: center; padding: 1rem; background: #4b0082; border-radius: 8px;'>
     <p><b>Memory Palace - AI Memory System</b></p>
     <p>Created by <b>Mohammad Saeed Angiz</b></p>
     <p>Based on <b>MemPalace</b></p>

@@ -560,7 +560,7 @@ def detect_outliers(data, method):
 # Footer
 st.markdown("---")
 st.markdown("""
-<div style='text-align: center; padding: 1rem; background: #f8f9fa; border-radius: 8px;'>
+<div style='text-align: center; padding: 1rem; background: #4b0082; border-radius: 8px;'>
     <p><b>Data Hub</b> | Created by <b>Mohammad Saeed Angiz</b></p>
 </div>
 """, unsafe_allow_html=True)

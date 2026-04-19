@@ -429,7 +429,7 @@ def show_search_statistics():
 # Footer
 st.markdown("---")
 st.markdown("""
-<div style='text-align: center; padding: 1rem; background: #f8f9fa; border-radius: 8px;'>
+<div style='text-align: center; padding: 1rem; background: #4b0082; border-radius: 8px;'>
     <p><b>FFF File Search - Fast Fuzzy Finder</b></p>
     <p>Created by <b>Mohammad Saeed Angiz</b></p>
     <p>Based on <b>fff.nvim</b> by dmtrKovalenko</p>

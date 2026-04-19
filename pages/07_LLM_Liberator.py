@@ -13,6 +13,19 @@ from pathlib import Path
 import json
 import time
 
+def get_method_description(method):
+    """Get description for each abliteration method."""
+    descriptions = {
+        "basic": "Standard abliteration with default parameters. Good for most use cases.",
+        "advanced": "Enhanced abliteration with additional refinement steps.",
+        "aggressive": "More aggressive removal of refusal directions. May affect other behaviors.",
+        "surgical": "Precision abliteration targeting specific refusal patterns.",
+        "optimized": "Performance-optimized abliteration with minimal overhead.",
+        "informed": "Uses additional information to guide the abliteration process.",
+        "nuclear": "Maximum removal of all refusal-related representations. Use with caution."
+    }
+    return descriptions.get(method, "No description available")
+
 st.markdown("# 💥 LLM Liberator - Abliteration Toolkit")
 st.markdown("**Created by: Mohammad Saeed Angiz** | Based on OBLITERATUS")
 st.markdown("---")
@@ -408,7 +421,7 @@ def run_benchmark(benchmark_type, num_prompts):
 # Footer
 st.markdown("---")
 st.markdown("""
-<div style='text-align: center; padding: 1rem; background: #f8f9fa; border-radius: 8px;'>
+<div style='text-align: center; padding: 1rem; background: #4b0082; border-radius: 8px;'>
     <p><b>LLM Liberator - Abliteration Toolkit</b></p>
     <p>Created by <b>Mohammad Saeed Angiz</b></p>
     <p>Based on <b>OBLITERATUS</b> by elder-plinius</p>
