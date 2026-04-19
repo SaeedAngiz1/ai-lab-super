@@ -1,15 +1,25 @@
+<div align="center">
+
+<p>
+  <a href="#english">🇺🇸 English</a> •
+  <a href="#deutsch">🇩🇪 Deutsch</a> •
+  <a href="#persian">🇮🇷 فارسی</a>
+</p>
+
+</div>
+
+<a id="english"></a>
 ### 🌟 **THE MOST ADVANCED AI/ML/DL PLATFORM OF 2026** 🌟
 
 **100% Open Source • Production Ready • Enterprise Grade • AI-Powered**
-
-
-</div>
 
 ---
 
 ## 📑 Table of Contents
 
 - [🎯 Overview](#-overview)
+- [🇩🇪 Deutsch](#deutsch)
+- [🇮🇷 فارسی](#persian)
 - [✨ Features](#-features)
 - [🚀 Quick Start](#-quick-start)
 - [📦 Installation](#-installation)
@@ -1018,7 +1028,73 @@ class AIAssistant:
 </details>
 
 ---
+<a id="deutsch"></a>
 
+## 🇩🇪 Deutsch
+
+**AI Lab Super** ist eine umfassende, enterprise-taugliche AI/ML/DL-Plattform von **Mohammad Saeed Angiz**.
+
+- 📊 Datenmanagement: Hochladen, Generieren, Vorverarbeiten und Visualisieren von Datensätzen
+- 🤖 Machine Learning: Klassische ML-Modelle trainieren, optimieren und evaluieren
+- 🧠 Deep Learning: Moderne neuronale Netze entwerfen und trainieren
+- 🔮 Vorhersagen: Modelle bereitstellen und produktiv nutzen
+- 🤖 AI Assistant: ML-Workflows per natürlicher Sprache automatisieren
+- 📥 Export: Daten, Modelle und Ergebnisse in jeder Phase herunterladen
+
+### Schnellstart
+
+```bash
+pip install ai-lab-super
+ai-lab-super run
+```
+
+### Installation aus dem Quellcode
+
+```bash
+git clone https://github.com/saeedangiz1/ai-lab-super.git
+cd ai-lab-super
+python -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+<a id="persian"></a>
+
+<div dir="rtl">
+
+## 🇮🇷 فارسی
+
+**AI Lab Super** یک پلتفرم جامع و سازمانی برای AI/ML/DL است که توسط **Mohammad Saeed Angiz** ساخته شده است.
+
+- 📊 مدیریت داده: آپلود، تولید، پیش‌پردازش و مصورسازی داده‌ها
+- 🤖 یادگیری ماشین: آموزش، تنظیم و ارزیابی مدل‌های کلاسیک
+- 🧠 یادگیری عمیق: طراحی و آموزش شبکه‌های عصبی مدرن
+- 🔮 پیش‌بینی: استقرار مدل و استفاده در محیط واقعی
+- 🤖 دستیار هوش مصنوعی: خودکارسازی جریان کاری ML با زبان طبیعی
+- 📥 خروجی: دانلود داده‌ها، مدل‌ها و نتایج در تمام مراحل
+
+### شروع سریع
+
+```bash
+pip install ai-lab-super
+ai-lab-super run
+```
+
+### اجرا از سورس
+
+```bash
+git clone https://github.com/saeedangiz1/ai-lab-super.git
+cd ai-lab-super
+python -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+</div>
+
+---
 ## 🤝 Contributing
 
 <p align="center">
