@@ -2,7 +2,6 @@
 
 **100% Open Source • Production Ready • Enterprise Grade • AI-Powered**
 
-*Trusted by 50,000+ Data Scientists • 500+ Companies • 100+ Countries*
 
 </div>
 
@@ -196,7 +195,7 @@
 ### 📈 Evaluation & Explainability
 
 <p align="center">
-<img src="https://github.com/saeedangiz1/ai-lab-super/raw/main/assets/screenshots/evaluation.png" width="800" alt="Evaluation Screenshot"/>
+<img src="https://github.com/saeedangiz1/ai-lab-super/raw/main/assets/screenshots/evaluation_dashboard.png" width="800" alt="Evaluation Screenshot"/>
 </p>
 
 - 📊 **30+ Metrics**: Accuracy, Precision, Recall, F1, ROC-AUC, RMSE, MAE, R²
@@ -333,8 +332,8 @@ streamlit run app.py
 
 ```bash
 # Pull and run
-docker pull mohammadsaeedangiz/ai-lab-super:latest
-docker run -p 8501:8501 mohammadsaeedangiz/ai-lab-super
+docker pull saeedangiz1/ai-lab-super:latest
+docker run -p 8501:8501 saeedangiz1/ai-lab-super
 
 # Or build from source
 docker build -t ai-lab-super .
@@ -1106,8 +1105,8 @@ SOFTWARE.
 <a href="[https://github.com/saeedangiz1](https://github.com/SaeedAngiz1)">
 <img src="https://img.shields.io/badge/GitHub-saeedangiz1-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
-<a href="[[https://linkedin.com/in/saeed-angiz-8b424038a]](https://www.linkedin.com/in/saeed-angiz-8b424038a)">
-<img src="https://img.shields.io/badge/LinkedIn-[saeed-angiz-8b424038a]-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/saeed-angiz-8b424038a/">
+  <img src="https://img.shields.io/badge/LinkedIn-saeed--angiz--8b424038a-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:saeedangiz2@gmail.com">
 <img src="https://img.shields.io/badge/Email-saeedangiz2@gmail.com-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
