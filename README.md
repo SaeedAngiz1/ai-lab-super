@@ -311,8 +311,8 @@
 
 ### Option 1: Try Online (No Installation)
 
-[![Open AI Lab Studio in Streamlit](https://static.streamlit.io/badges/streamlit_online_badge.svg)](https://ai-lab-studio.streamlit.app)
-[![Open Data Science AI in Streamlit](https://static.streamlit.io/badges/streamlit_online_badge.svg)](https://data-science-ai.streamlit.app)
+[![AI Lab Studio](https://img.shields.io/badge/AI%20Lab%20Studio-Open%20in%20Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://ai-lab-studio.streamlit.app)
+[![Data Science AI](https://img.shields.io/badge/Data%20Science%20AI-Open%20in%20Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://data-science-ai.streamlit.app)
 
 ### Option 2: Install via pip
 
