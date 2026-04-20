@@ -311,7 +311,8 @@
 
 ### Option 1: Try Online (No Installation)
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_online_badge.svg)](https://ai-lab-super-demo.streamlit.app)
+[![Open AI Lab Studio in Streamlit](https://static.streamlit.io/badges/streamlit_online_badge.svg)](https://ai-lab-studio.streamlit.app)
+[![Open Data Science AI in Streamlit](https://static.streamlit.io/badges/streamlit_online_badge.svg)](https://data-science-ai.streamlit.app)
 
 ### Option 2: Install via pip
 
