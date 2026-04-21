@@ -604,10 +604,12 @@ elif current_page == "jupyter_notebook":
         st.info("Jupyter Notebook IDE page is available at pages/12_Jupyter_IDE.py")
 
 elif current_page == "dl_studio":
-    st.markdown("## 🧠 Deep Learning Studio")
-    st.markdown("**Created by: Mohammad Saeed Angiz**")
-    st.info("Design and train deep learning models with ease.")
-    st.markdown("### Coming Soon!")
+    try:
+        st.switch_page("pages/06_DL_LAB.py")
+    except Exception:
+        st.markdown("## 🧠 Deep Learning Studio")
+        st.markdown("**Created by: Mohammad Saeed Angiz**")
+        st.info("DL Studio page is available at pages/06_DL_LAB.py")
 
 elif current_page == "evaluation":
     st.markdown("## 📈 Model Evaluation")

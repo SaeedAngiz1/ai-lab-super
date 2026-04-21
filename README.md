@@ -8,6 +8,17 @@
 
 </div>
 
+<p align="center">
+  <img src="assets/repo-icon.png" alt="Repo Icon" width="96" />
+  <br/>
+  <img src="https://via.placeholder.com/800x200.png?text=Project+Banner" alt="Banner" />
+  <br/>
+  <i>AI Lab Super</i>
+  <br/>
+  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg" />
+</p>
+
 <a id="english"></a>
 ### 🌟 **THE MOST ADVANCED AI/ML/DL PLATFORM OF 2026** 🌟
 
