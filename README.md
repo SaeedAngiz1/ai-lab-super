@@ -9,14 +9,13 @@
 </div>
 
 <p align="center">
-  <img src="assets/repo-icon.png" alt="Repo Icon" width="96" />
-  <br/>
-  <img src="https://via.placeholder.com/800x200.png?text=Project+Banner" alt="Banner" />
-  <br/>
-  <i>AI Lab Super</i>
-  <br/>
+  <img src="assets/repo-icon.png" alt="AI Lab Super Logo" width="420" />
+  <br/><br/>
   <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   <img src="https://img.shields.io/badge/License-MIT-blue.svg" />
+  <img src="https://img.shields.io/badge/Python-3.9%2B-blue.svg" />
+  <img src="https://img.shields.io/badge/Streamlit-1.28%2B-FF4B4B?logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-2.13%2B-orange?logo=tensorflow&logoColor=white" />
 </p>
 
 <a id="english"></a>
@@ -1274,4 +1273,4 @@ If you find this project useful, please consider:
 </p>
 
 </div>
-```
+
